@@ -1,0 +1,12 @@
+C:\Users\Windows 10\Desktop\Trabajos y Proyectos ITLA\C#\Prog 1\CompañiaCamiones\CompañiaCamiones\bin\Debug\CompañiaCamiones.exe.config
+C:\Users\Windows 10\Desktop\Trabajos y Proyectos ITLA\C#\Prog 1\CompañiaCamiones\CompañiaCamiones\bin\Debug\CompañiaCamiones.exe
+C:\Users\Windows 10\Desktop\Trabajos y Proyectos ITLA\C#\Prog 1\CompañiaCamiones\CompañiaCamiones\bin\Debug\CompañiaCamiones.pdb
+C:\Users\Windows 10\Desktop\Trabajos y Proyectos ITLA\C#\Prog 1\CompañiaCamiones\CompañiaCamiones\obj\Debug\CompañiaCamiones.csprojAssemblyReference.cache
+C:\Users\Windows 10\Desktop\Trabajos y Proyectos ITLA\C#\Prog 1\CompañiaCamiones\CompañiaCamiones\obj\Debug\CompañiaCamiones.Form1.resources
+C:\Users\Windows 10\Desktop\Trabajos y Proyectos ITLA\C#\Prog 1\CompañiaCamiones\CompañiaCamiones\obj\Debug\CompañiaCamiones.Properties.Resources.resources
+C:\Users\Windows 10\Desktop\Trabajos y Proyectos ITLA\C#\Prog 1\CompañiaCamiones\CompañiaCamiones\obj\Debug\CompañiaCamiones.csproj.GenerateResource.cache
+C:\Users\Windows 10\Desktop\Trabajos y Proyectos ITLA\C#\Prog 1\CompañiaCamiones\CompañiaCamiones\obj\Debug\CompañiaCamiones.exe
+C:\Users\Windows 10\Desktop\Trabajos y Proyectos ITLA\C#\Prog 1\CompañiaCamiones\CompañiaCamiones\obj\Debug\CompañiaCamiones.pdb
+C:\Users\Windows 10\Desktop\Trabajos y Proyectos ITLA\C#\Prog 1\CompañiaCamiones\CompañiaCamiones\obj\Debug\CompañiaCamiones.Form2.resources
+C:\Users\Windows 10\Desktop\Trabajos y Proyectos ITLA\C#\Prog 1\CompañiaCamiones\CompañiaCamiones\obj\Debug\CompañiaCamiones.Registrocamiones.resources
+C:\Users\Windows 10\Desktop\Trabajos y Proyectos ITLA\C#\Prog 1\CompañiaCamiones\CompañiaCamiones\obj\Debug\CompañiaCamiones.Registrociudades.resources
